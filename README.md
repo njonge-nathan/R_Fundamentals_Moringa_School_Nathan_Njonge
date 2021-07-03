@@ -6,6 +6,9 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 In order to work on the above problem, you need to do the following:
 
 1.Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question.
+
 2.Find and deal with outliers, anomalies, and missing data within the dataset.
+
 3.Perform  univariate and bivariate analysis.
+
 4.From your insights provide a conclusion and recommendation.
